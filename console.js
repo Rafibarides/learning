@@ -1,9 +1,9 @@
-console.log("hi")
+console.log("hi");
 
-
-
+console.log("daniel");
+console.log("hi");
 
 const hi = (name) => {
-    return "Hello"
-}
-console.log(hi("Daniel"))
+  return "Hello";
+};
+console.log(hi("Daniel"));
